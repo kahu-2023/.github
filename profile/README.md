@@ -1,4 +1,4 @@
-# Dev Academy's Kāhu cohort of 2023 
+# Dev Academy's Public View
 
 If you **are** a student,   
 You must have **forgotten to sign in!** Go sign in to get access to the content 🔓
